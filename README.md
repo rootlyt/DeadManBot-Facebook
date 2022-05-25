@@ -8,15 +8,17 @@ This bot will post your previously written txt files (lastword.txt) and post the
 #IF SOME OF YOU USING THIS FOR POSTING YOUR LAST WILL BEFORE/AFTER $UICIDE, PLEASE GO TALK TO SOMEONE, GET HELP, I DID NOT TELL YOU / RECOMMEND TO DO THAT. DO AT YOUR OWN RISK#
 
 Requirement:
+
 -Python 3.9
 -Selenium
 -Chromedriver
 
 How to setup:
-fill the username/email on usr.txt
-fill the password on pass.txt
-fill the word or text you want to release if you didn't confirm you're alive (countdown can be edited on the deadmanbot.py)
-run the DeadManBot.py using a script or Windows Task Scheduler, run it every your computer startup, so you can confirm every 24H or edit it on the code as you need it.
+
+-fill the username/email on usr.txt.
+-fill the password on pass.txt.
+-fill the word or text you want to release if you didn't confirm you're alive (countdown can be edited on the deadmanbot.py).
+-run the DeadManBot.py using a script or Windows Task Scheduler, run it every your computer startup, so you can confirm every 24H or edit it on the code as you need it.
 
 I'm using both full desktop Facebook to login and mbasic to post because of the Facebook HTML class structure or some syit, 
 I'm not an expert on this thing, even the python code may contain some broken logic :v (what do you expect)
