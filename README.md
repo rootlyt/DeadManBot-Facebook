@@ -1,6 +1,8 @@
-# DeadManBot-Facebook
+
 ![image](https://user-images.githubusercontent.com/72824435/170285177-ebffed42-12a5-419d-b3ee-c6a09b21d966.png)
-.
+
+# DeadManBot-Facebook
+
 A bot to post your last will/word into your Facebook timeline
 
 A Dead Man Switch *just google it if you really don't know what is this.
@@ -29,3 +31,4 @@ If someday Szucc decided to change it's Facebook structure again, then you can c
 if there is some missing citation in case I forgot to add it, feel free to contact me. I'll add it.
 *This bot can or maybe fail, because I just do a small amount of testing, but it works well for me.. 
 feel free to fork, edit or do anything with this. Just include me and the source.md citation. Thanks!
+
