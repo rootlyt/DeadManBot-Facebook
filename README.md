@@ -5,7 +5,7 @@ A Dead Man Switch *just google it if you really don't know what is this.
 This bot is for you who live alone with no friends/ far from anyone and you want to send your last will/word/news if anything happens to you.
 This bot will post your previously written txt files (lastword.txt) and post them to your Facebook timeline, using a countdown within a certain amount of time if you didn't exit / confirm you're still alive, it will post the "lastword" into your Facebook timeline.
 
-## IF SOME OF YOU USING THIS FOR POSTING YOUR LAST WILL BEFORE/AFTER $UICIDE, PLEASE GO TALK TO SOMEONE, GET HELP, I DID NOT TELL YOU / RECOMMEND TO DO THAT. DO AT YOUR OWN RISK##
+#IF SOME OF YOU USING THIS FOR POSTING YOUR LAST WILL BEFORE/AFTER $UICIDE, PLEASE GO TALK TO SOMEONE, GET HELP, I DID NOT TELL YOU / RECOMMEND TO DO THAT. DO AT YOUR OWN RISK#
 
 Requirement:
 -Python 3.9
