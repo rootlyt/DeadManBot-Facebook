@@ -1,11 +1,9 @@
 
+# DeadManBot-Facebook
+## A bot to post your last will/word into your Facebook timeline <br />
 ![image](https://user-images.githubusercontent.com/72824435/170285177-ebffed42-12a5-419d-b3ee-c6a09b21d966.png)
 
-# DeadManBot-Facebook
-
-A bot to post your last will/word into your Facebook timeline
-
-A Dead Man Switch *just google it if you really don't know what is this.
+<br />A Dead Man Switch *just google it if you really don't know what is this.
 This bot is for you who live alone with no friends/ far from anyone and you want to send your last will/word/news if anything happens to you.
 This bot will post your previously written txt files (lastword.txt) and post them to your Facebook timeline, using a countdown within a certain amount of time if you didn't exit / confirm you're still alive, it will post the "lastword" into your Facebook timeline.
 
